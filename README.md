@@ -5,4 +5,4 @@ Make another change
 
 how to escape vim
 - from vs code just type something at the top of the file that opens, save, hit the commit button
-- from the cmd prompt or terminal: 
+- from the cmd prompt or terminal: hit "i", type your commit message, hit esc button, type ":wq" 
